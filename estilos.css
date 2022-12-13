@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    width: 1200px;
+    background: white;
+    margin: 10px auto;
+}
+.superior{
+    background: rgb(107, 188, 255);
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    width: 300px;
+    padding: 10px;
+}
+/*Estilos para el menu*/
+.menu{
+    float: left;
+    padding: 50px;
+}
+.opciones li{
+    float: left;
+    list-style: none;
+}
+.opciones li a{
+    color: black;
+    padding: 25px;
+    text-decoration: none;
+    border:1px solid rgb(36, 12, 255);
+}
+.opciones li a:hover{
+    background: #1551a1;
+}
+.slider{
+    float: right;
+}
+.info{
+    float: above;
+    text-align: left;
+    color: #28558f;
+    padding: 130px;
+}
+.datos{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+}
+.titulo{
+    text-align: center;
+    white-space: nowrap;
+    color: #28558f;
+}
+.tabla{
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 10px;
+    color: #28558f;
+}
+.boton{
+    margin-left: 45%;
+    width: 100px;
+    padding: 10px;
+}
+.info2{
+    color: #28558f;
+}
+
+.caja{
+    float: left;
+    width: 270px;
+    margin: 15px;
+    color: #28558f;
+}
+.slider2{
+    float: left;
+}
+.info3{
+    float: above;
+    text-align: right;
+    color: #28558f;
+    padding: 0px;
+}
+.datos3{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: right;
+}
+.imagen{
+    float: left;
+    margin-left: 60px;
+}
+.info4{
+    float: left;
+    color: #28558f;
+}
